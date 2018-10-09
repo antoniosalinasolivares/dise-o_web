@@ -1,0 +1,55 @@
+html{
+  background-image: url(../media/linnen_pattern.png);
+  background-repeat: repeat;
+}
+
+.titulos_principales ,h1{
+  align-self: center;
+}
+
+.menu_nav li{
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+  color: #fbfbfb;
+  background-color: rgba(200, 200, 200,.5); // Sets to 50% transparent
+}
+
+footer li{
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+  color: #fbfbfb;
+}
+
+.content{
+  background-color: rgba(200, 200, 200,.5); // Sets to 50% transparent
+}
+
+.custom_table, tr th{
+  padding: 40px;
+}
+
+.twt-feed{
+  width: 500px;
+  height: 800px;
+}
+
+.paragraph_design{
+  background-color: rgba(200, 200, 200,.5); // Sets to 50% transparent
+  width: 400px;
+}
+
+footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
